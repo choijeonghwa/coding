@@ -37,13 +37,11 @@
 @snapend
 
 @snap[east span-75]
-
-<h2>Sunt in @css[text-pink](culpa) officia</h2>
-
+![김규민](https://t1.daumcdn.net/cfile/tistory/21389C43593504001D)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with heading body template.
+방콕여행
 @snapend
 
 +++?image=assets/img/bg/orange.jpg&position=left&size=30% 50%
@@ -54,11 +52,11 @@ Sidebox with heading body template.
 @snapend
 
 @snap[east span-70]
-![FRIDAY](assets/img/friday.gif)
+![강민수](http://www.hunterpc.co.kr/hunter2/data/editor/1708/fa522787eb582a083406fa40727b6b70_1501737405_3669.jpg)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with image body template.
+친구들이랑 밤새 게임하기
 @snapend
 
 +++?image=assets/img/bg/green.jpg&position=left&size=30% 50%
@@ -69,13 +67,11 @@ Sidebox with image body template.
 @snapend
 
 @snap[east span-70]
-@fa[bath fa-5x text-blue]
-<br><br>
-How to write clean code.
+![남기원](http://www.thinkfood.co.kr/news/photo/article/145770719848c122cf521775_3.jpg)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with mixed body template.
+술
 @snapend
 
 +++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
@@ -86,11 +82,11 @@ Sidebox with mixed body template.
 @snapend
 
 @snap[east span-70]
-![휘닉스](http://www.hotelavia.net/news/photo/201508/762_1322_1743.jpg)
+![임동영](http://www.hotelavia.net/news/photo/201508/762_1322_1743.jpg)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with text body template.
+휘닉스파크에서 스노우보드 타기
 @snapend
 
 +++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
@@ -101,13 +97,11 @@ Sidebox with text body template.
 @snapend
 
 @snap[east span-70]
-Ut enim ad minim veniam, quis @css[text-pink](nostrud exercitation ullamco laboris) nisi ut aliquip ex ea commodo.
-<br><br>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![이민영](https://scontent-sea1-1.cdninstagram.com/vp/64bf1488a4c9195e1e91b11f632e8ebb/5C9BF448/t51.2885-15/e35/46574894_319417475567733_8908670897934722526_n.jpg?se=7&ig_cache_key=MTkzNTAxMTgxODE5MzY3Njk3NA%3D%3D.2)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with text body template.
+맛있는거 먹으면서 영화보기
 @snapend
 
 +++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
@@ -118,11 +112,9 @@ Sidebox with text body template.
 @snapend
 
 @snap[east span-70]
-Ut enim ad minim veniam, quis @css[text-pink](nostrud exercitation ullamco laboris) nisi ut aliquip ex ea commodo.
-<br><br>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![최정화](https://scontent-ams3-1.cdninstagram.com/vp/94d73a7246cb38efd1ef4987b9577d7d/5CA9F812/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47465982_290578614926296_2776572000380911616_n.jpg)
 @snapend
 
 @snap[north-east template-note text-gray]
-Sidebox with text body template.
+귤먹으면서 영화보기
 @snapend
