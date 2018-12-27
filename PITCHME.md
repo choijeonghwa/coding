@@ -1,5 +1,5 @@
 ---
-# Let's Coding
+## Let's Coding
 
 ---
 ### 코딩하조
