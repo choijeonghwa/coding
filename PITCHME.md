@@ -31,7 +31,7 @@
 @snapend
 
 @snap[east span-75]
-![김규민](https://t1.daumcdn.net/cfile/tistory/21389C43593504001D)
+<img src="https://t1.daumcdn.net/cfile/tistory/21389C43593504001D" style= "right" height="500">
 @snapend
 
 @snap[north-east template-note text-gray]
@@ -46,7 +46,7 @@
 @snapend
 
 @snap[east span-70]
-![강민수](http://www.hunterpc.co.kr/hunter2/data/editor/1708/fa522787eb582a083406fa40727b6b70_1501737405_3669.jpg)
+<img src="http://www.hunterpc.co.kr/hunter2/data/editor/1708/fa522787eb582a083406fa40727b6b70_1501737405_3669.jpg" style= "right" height="500">
 @snapend
 
 @snap[north-east template-note text-gray]
@@ -95,7 +95,7 @@
 @snapend
 
 @snap[north-east template-note text-gray]
-맛있는거 먹으면서 보기
+맛있는거 먹으면서 티비보기
 @snapend
 
 +++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
