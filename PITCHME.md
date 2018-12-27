@@ -83,7 +83,7 @@
 휘닉스파크에서 스노우보드 타기
 @snapend
 
-+++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/yellow.jpg&position=left&size=30% 50%
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
