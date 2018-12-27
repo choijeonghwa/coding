@@ -106,7 +106,7 @@
 @snapend
 
 @snap[east span-70]
-<img src="https://scontent-ams3-1.cdninstagram.com/vp/94d73a7246cb38efd1ef4987b9577d7d/5CA9F812/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47465982_290578614926296_2776572000380911616_n.jpg" height="80%">
+<img src="https://scontent-ams3-1.cdninstagram.com/vp/94d73a7246cb38efd1ef4987b9577d7d/5CA9F812/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47465982_290578614926296_2776572000380911616_n.jpg" style= "right" height="300">
 @snapend
 
 @snap[north-east template-note text-gray]
