@@ -13,7 +13,6 @@
 
 <img src="./IMG_7747.jpeg" style='center border:0' width="70%" height="70%">
 
-
 ---
 ### 2018년을 마무리하며
 
@@ -25,3 +24,14 @@
 ### @color[orange](ACME Corp Clearance Sale)
 
 #### Dynamite Deals - @color[#DC143C](Short Fuses) Included!
+
+
+---?image=template/img/pencils.jpg
+@title[Sidebox Templates]
+
+## @color[black](Sidebox<br>Slide Templates)
+
+@fa[arrow-down text-black]
+
+@snap[south docslink span-50][The Template Docs](https://gitpitch.com/docs/the-template)
+@snapend
