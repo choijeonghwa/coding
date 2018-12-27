@@ -1,14 +1,15 @@
 ---
 ## Let's Coding
 ---
-### 코딩하조
+
 @snap[west span-30]
-- 김규민
-- 강민수
-- 남기원
-- 임동영
-- 이민영
-- 최정화
+### 코딩하조
+김규민<br>
+강민수<br>
+남기원<br>
+임동영<br>
+이민영<br>
+최정화
 @snapend
 
 @snap[east span-70]
