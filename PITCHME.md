@@ -91,7 +91,7 @@
 @snapend
 
 @snap[east span-70]
-![이민영](https://scontent-atl3-1.cdninstagram.com/vp/4a3c4c98dd8e854014806f6a2d28e5a5/5CA70975/t51.2885-15/e35/42620437_332577583966977_3773266348398039585_n.jpg)
+<img src="https://scontent-atl3-1.cdninstagram.com/vp/4a3c4c98dd8e854014806f6a2d28e5a5/5CA70975/t51.2885-15/e35/42620437_332577583966977_3773266348398039585_n.jp" style= "right" height="500">
 @snapend
 
 @snap[north-east template-note text-gray]
