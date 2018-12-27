@@ -27,7 +27,7 @@
 @title[Sidebox + Heading]
 
 @snap[west text-white]
-(김규민.)
+@size[1em](김규민.)
 @snapend
 
 @snap[east span-75]
