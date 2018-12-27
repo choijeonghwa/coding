@@ -1,5 +1,5 @@
 ---
-title: 챗봇 개발
+title: Start Camp 2주차
 ---
 
 # Start Camp 2주차 - 챗봇 개발
