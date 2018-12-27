@@ -23,7 +23,7 @@
 <img src="https://image.flaticon.com/icons/svg/1170/1170586.svg" width='150' height='150' style="border:0"> <img src="https://image.flaticon.com/icons/svg/135/135624.svg" width='150' height='150' style="border:0">
 
 
-+++?image=assets/img/bg/blue.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/gray.jpg&position=left&size=30% 50%
 @title[Sidebox + Heading]
 
 @snap[west text-white]
