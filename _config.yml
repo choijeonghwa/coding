@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Let's Coding"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Coding Kim"
 description              : "An amazing website."
 url                      : "https://coding.github.io"
 baseurl                  : "/coding"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Coding Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am an amazing Coder."
+  location         : "Multicampus"
   email            :
   links:
     - label: "Email"
