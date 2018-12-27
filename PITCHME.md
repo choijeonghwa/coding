@@ -33,7 +33,7 @@
 @title[Sidebox + Heading]
 
 @snap[west text-white]
-@size[3em](김규민.)
+@size[1em](김규민.)
 @snapend
 
 @snap[east span-75]
@@ -46,7 +46,7 @@
 Sidebox with heading body template.
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/orange.jpg&position=left&size=30% 50%
 @title[Sidebox + Image Body]
 
 @snap[west text-white]
@@ -54,14 +54,14 @@ Sidebox with heading body template.
 @snapend
 
 @snap[east span-70]
-![FRIDAY](template/img/friday.gif)
+![FRIDAY](assets/img/friday.gif)
 @snapend
 
 @snap[north-east template-note text-gray]
 Sidebox with image body template.
 @snapend
 
-+++?image=template/img/bg/green.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/green.jpg&position=left&size=30% 50%
 @title[Sidebox + Mixed Body]
 
 @snap[west text-white]
@@ -78,7 +78,7 @@ How to write clean code.
 Sidebox with mixed body template.
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
@@ -95,7 +95,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Sidebox with text body template.
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
@@ -112,7 +112,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 Sidebox with text body template.
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=left&size=30% 50%
++++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
