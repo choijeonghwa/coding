@@ -2,16 +2,18 @@
 ## Let's Coding
 ---
 ### 코딩하조
+@snap[west span-30]
 - 김규민
 - 강민수
 - 남기원
 - 임동영
 - 이민영
 - 최정화
+@snapend
 
----
-
+@snap[east span-70]
 <img src="assets/img/IMG_7747.jpeg" style='center border:0' width="70%" height="70%">
+@snapend
 
 ---
 ### 2018년을 마무리하며
