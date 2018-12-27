@@ -76,7 +76,7 @@
 @snapend
 
 @snap[east span-70]
-![임동영](http://www.hotelavia.net/news/photo/201508/762_1322_1743.jpg)
+<img src="http://www.hotelavia.net/news/photo/201508/762_1322_1743.jpg" style= "right" height="500">
 @snapend
 
 @snap[north-east template-note text-gray]
