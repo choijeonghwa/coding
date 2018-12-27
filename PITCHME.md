@@ -33,7 +33,7 @@
 @title[Sidebox + Heading]
 
 @snap[west text-white]
-@size[2em](김규민.)
+@size[1em](김규민.)
 @snapend
 
 @snap[east span-75]
@@ -50,7 +50,7 @@ Sidebox with heading body template.
 @title[Sidebox + Image Body]
 
 @snap[west text-white]
-@size[3em](강민수.)
+@size[1em](강민수.)
 @snapend
 
 @snap[east span-70]
@@ -65,7 +65,7 @@ Sidebox with image body template.
 @title[Sidebox + Mixed Body]
 
 @snap[west text-white]
-@size[3em](남기원.)
+@size[1em](남기원.)
 @snapend
 
 @snap[east span-70]
@@ -82,7 +82,22 @@ Sidebox with mixed body template.
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
-@size[3em](임동영.)
+@size[1em](임동영.)
+@snapend
+
+@snap[east span-70]
+![휘닉스](http://www.hotelavia.net/news/photo/201508/762_1322_1743.jpg)
+@snapend
+
+@snap[north-east template-note text-gray]
+Sidebox with text body template.
+@snapend
+
++++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
+@title[Sidebox + Text Body]
+
+@snap[west text-white]
+@size[1em](이민영.)
 @snapend
 
 @snap[east span-70]
@@ -99,24 +114,7 @@ Sidebox with text body template.
 @title[Sidebox + Text Body]
 
 @snap[west text-white]
-@size[3em](이민영.)
-@snapend
-
-@snap[east span-70]
-Ut enim ad minim veniam, quis @css[text-pink](nostrud exercitation ullamco laboris) nisi ut aliquip ex ea commodo.
-<br><br>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebox with text body template.
-@snapend
-
-+++?image=assets/img/bg/pink.jpg&position=left&size=30% 50%
-@title[Sidebox + Text Body]
-
-@snap[west text-white]
-@size[3em](최정화.)
+@size[1em](최정화.)
 @snapend
 
 @snap[east span-70]
